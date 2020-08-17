@@ -60,10 +60,10 @@ From your command line, clone and run developerFolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Akkiredddypasta/developerFolio.git
+$ git clone https://github.com/Akkireddy1/portfolio.git
 
 # Go into the repository
-$ cd developerFolio
+$ cd portfolio
 
 # Install dependencies
 $ npm install

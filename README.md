@@ -1,4 +1,4 @@
-# Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/Akkiredddypasta/developer-portfolio?color=blue)](https://github.com/Akkiredddypasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Akkiredddypasta/developerFolio)](https://github.com/Akkiredddypasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors) 
+# portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/Akkiredddypasta/developer-portfolio?color=blue)](https://github.com/Akkiredddypasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Akkiredddypasta/developerFolio)](https://github.com/Akkiredddypasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors) 
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 

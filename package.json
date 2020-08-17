@@ -1,6 +1,6 @@
 {
-  "homepage": "https://DevOpsFolio.github.io",
-  "name": "DevOpsFolio.github.io",
+  "homepage": "https://portfolio.github.io",
+  "name": "portfolio.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

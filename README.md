@@ -1,16 +1,15 @@
-# portfolio ⚡️ 
+# portfolio ⚡️
 
-## A clean, beautiful and responsive portfolio template for Developers!
+## A clean, beautiful and responsive portfolio template for Developers
 
 Just change `src/portfolio.js` to get your personal portfolio . Feel free to use it as-is or customize it as much as you want.
 
 But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Akkireddy1/portfolio/tree/master/.github/ISSUE_TEMPLATE)
 
-
 If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request](https://github.com/Akkireddy1/portfolio/tree/master/.github/PULL_REQUEST_TEMPLATE)
 
+## Sections
 
-## Sections 
 ✔️ Summary and About me\
 ✔️ Skills\
 ✔️ Work Experience\
@@ -18,14 +17,10 @@ If you created something awesome and want to contribute then feel free to open P
 ✔️ Big Projects\
 ✔️ Achievements And Certifications 🏆\
 ✔️ Blogs\
-✔️ Talks\
-✔️ Podcast\
 ✔️ Contact me\
-✔️ Twitter Timeline\
 ✔️ Github Profile
 
-To view a live example, **[click here](https://developerfolio.js.org/)**
-
+To view a live example, **[click here](https://akkireddy.netlify.app/)**
 
 ## Getting Started 🚀
 
@@ -38,13 +33,13 @@ node@v10.16.0 or higher
 npm@6.9.0 or higher
 git@2.17.1 or higher
 ```
-### Docker Commands 
+
+### Docker Commands
 
 ```
 1) BUILD IMAGE : docker build -t developerfolio:latest .
 2) RUN IMAGE: docker run -p 3000:3000 developerfolio:latest
 ```
-
 
 ## How To Use 🔧
 
@@ -168,9 +163,9 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 This section guides you to deploy your portfolio on Github pages.
 
-- Navigate to `package.json` and enter your domain name instead of `https://developerfolio.js.org/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`. 
+- Navigate to `package.json` and enter your domain name instead of `https://developerfolio.js.org/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
 
-- In short you can also add `/devloperFolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly. 
+- In short you can also add `/devloperFolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
 
 - Optionally, configure the domain. You can configure a custom domain with GitHub Pages by adding a `CNAME` file to the `public/` folder.
 
@@ -184,18 +179,18 @@ You could also host directly with Netlify by linking your own repository.
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
-
 ## Technologies used 🛠️
 
 - [React](https://reactjs.org/)
-- [graphql](https://graphql.org/) 
-- [apollo-boost](https://www.apollographql.com/docs/react/get-started/) 
+- [graphql](https://graphql.org/)
+- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
 - [react-twitter-embed](https://github.com/saurabhnemade/react-twitter-embed)
 - [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
 - [react-headroom](https://github.com/KyleAMathews/react-headroom)
 - [color-thief](https://github.com/lokesh/color-thief)
 
 ## Illustrations
+
 - [UnDraw](https://undraw.co/illustrations)
 
 ## License 📄

@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Akkiredddy Challa",
   title: "Hi all, I'm Akkiredddy",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
+  subTitle: emoji("A passionate DevOps Engineer 🚀 having particle skills with interesting technologies, tasks, people. The whole role of my engineering practice includes building and supporting web saas solutions based on Linux/Unix platform in cloud(AWS) and on-premise, experience on server infrastructure migration, monitoring and securing, Lamp, and Linux Server setup/administration. Takes the form part in automating, supporting, and ensuring CI/CD in product development.."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -17,13 +17,13 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/Akkiredddy1",
-  linkedin: "https://www.linkedin.com/in/Akkiredddy",
+  github: "https://github.com/Akkireddy1",
+  linkedin: "https://www.linkedin.com/in/akkireddy-challa",
   gmail: "challaakkireddy@gmail.com",
-  gitlab: "https://gitlab.com/Akkiredddypasta",
-  facebook: "https://www.facebook.com/Akkiredddy.pasta7",
-  medium: "https://medium.com/@Akkiredddypasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/Akkiredddy-pasta"
+  gitlab: "https://gitlab.com/Akkiredddy",
+  //facebook: "https://www.facebook.com/Akkiredddy.pasta7",
+  medium: "https://medium.com/@akkireddy",
+  //stackoverflow: "https://stackoverflow.com/users/10422806/Akkiredddy-pasta"
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -43,8 +43,8 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "css3",
@@ -79,8 +79,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "Shell",
+      fontAwesomeClassname: "fab fa-laptop-code"
     },
     {
       skillName: "firebase",
@@ -103,7 +103,7 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
+      Stack: "Cloud Platforms",  //Insert stack or technology you have experience in
       progressPercentage: "90%"  //Insert relative proficiency in percentage
     },
     {
@@ -156,7 +156,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   githubConvertedToken: process.env.REACT_APP_GITHUB_TOKEN,
-  githubUserName: "Akkiredddypasta", // Change to your github username to view your profile in Contact Section.
+  githubUserName: "Akkireddy1", // Change to your github username to view your profile in Contact Section.
   showGithubProfile :"true" // Set true or false to show Contact profile using Github, defaults to false 
 };
 
@@ -169,11 +169,15 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/"
+      link: "https://shortcut.se"
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/"
+      link: "https://tario.se/#/login"
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      link: "https://www.enqlare.com"
     }
   ]
 };
@@ -236,6 +240,8 @@ const blogSection = {
   ]
 };
 
+
+/*
 // Talks Sections
 
 const talkSection = {
@@ -261,6 +267,7 @@ const podcastSection = {
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Akkiredddy-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
 };
+*/
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),

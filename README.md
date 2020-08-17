@@ -1,13 +1,13 @@
-# portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/Akkiredddypasta/developer-portfolio?color=blue)](https://github.com/Akkiredddypasta/developerFolio/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/Akkiredddypasta/developerFolio)](https://github.com/Akkiredddypasta/developerFolio/stargazers)  [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors) 
+# portfolio ⚡️ 
 
 ## A clean, beautiful and responsive portfolio template for Developers!
 
 Just change `src/portfolio.js` to get your personal portfolio . Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Akkiredddypasta/developerFolio/issues).
+But if you want to **contribute** and make this much better for other developer have a look at [Issues]
 
 
-If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request](https://github.com/Akkiredddypasta/developerFolio/pulls).
+If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request]
 
 
 ## Sections 
@@ -201,16 +201,3 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 ## License 📄
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE) file for details
-
-
-
-## For the Future 
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/Akkiredddypasta/developerFolio/pulls).
-
-- Connect with LinkedIn to get Summary, Skills, Education and Experience
-
-- Move to Gatsby
-
-- Enable Dark Mode
-
-- Add More Sections

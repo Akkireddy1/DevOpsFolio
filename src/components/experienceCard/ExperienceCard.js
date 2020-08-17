@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React, { useState, useEffect, createRef } from "react";
 import "./ExperienceCard.css";
 import ColorThief from "colorthief";

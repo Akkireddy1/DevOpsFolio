@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React,{Suspense,setState} from "react";
 import "./twitter.css";
 import Loading from "../loading/Loading";

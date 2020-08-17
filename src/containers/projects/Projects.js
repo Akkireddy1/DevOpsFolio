@@ -15,8 +15,9 @@ export default function Projects() {
 
   useEffect(() => {
     getRepoData();
-  }, []);
+  }, [getRepoData]);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   function getRepoData() {
     const client = new ApolloClient({
       uri: "https://api.github.com/graphql",

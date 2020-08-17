@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/iframe-has-title */
 import React from "react";
 import "./Podcast.css";
 import { podcastSection } from "../../portfolio";

@@ -224,14 +224,14 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+      url: "https://medium.com/@akkireddy/scm-branching-guidelines-for-agile-development-c2414d6bef5e",
+      title: "SCM — Branching Guidelines for Agile Development",
+      description: "Branching as part of source control management is intended for code-separation or code-isolation and it becomes inevitable under the following"
     },
     {
-      url: "https://medium.com/@Akkiredddypasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://medium.com/macoclock/how-to-flush-dns-cache-on-macos-and-linux-5798cabfb324",
+      title: "How to Flush DNS Cache on macOS and Linux?",
+      description: "How to Flush DNS Cache on macOS and Linux."
     }
   ]
 };
@@ -265,7 +265,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
+  number: "+46 767649909",
   email_address: "challaakkireddy@gmail.com"
 };
 
@@ -273,7 +273,7 @@ const contactInfo = {
 
 const twitterDetails = {
 
-  userName : "twitter"//Replace "twitter" with your twitter username without @
+  userName : "Akkireddy95"
   
 };
 export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};

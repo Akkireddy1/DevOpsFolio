@@ -80,7 +80,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Shell",
-      fontAwesomeClassname: "fab fa-aws"
+      fontAwesomeClassname: "fab fa-laptop-code"
     },
     {
       skillName: "firebase",
@@ -169,11 +169,15 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      link: "http://saayahealth.com/"
+      link: "https://shortcut.se"
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      link: "http://nextu.se/"
+      link: "https://tario.se/#/login"
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      link: "https://www.enqlare.com"
     }
   ]
 };
@@ -236,6 +240,8 @@ const blogSection = {
   ]
 };
 
+
+/*
 // Talks Sections
 
 const talkSection = {
@@ -261,6 +267,7 @@ const podcastSection = {
   // Please Provide with Your Podcast embeded Link
   podcast: ["https://anchor.fm/codevcast/embed/episodes/DevStory---Akkiredddy-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"]
 };
+*/
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),

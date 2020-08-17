@@ -18,7 +18,7 @@ const greeting = {
 const socialMediaLinks = {
 
   github: "https://github.com/Akkiredddy1",
-  linkedin: "https://www.linkedin.com/in/Akkiredddypasta/",
+  linkedin: "https://www.linkedin.com/in/Akkiredddy",
   gmail: "challaakkireddy@gmail.com",
   gitlab: "https://gitlab.com/Akkiredddypasta",
   facebook: "https://www.facebook.com/Akkiredddy.pasta7",

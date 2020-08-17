@@ -37,13 +37,13 @@ git@2.17.1 or higher
 ### Docker Commands
 
 ```
-1) BUILD IMAGE : docker build -t developerfolio:latest .
-2) RUN IMAGE: docker run -p 3000:3000 developerfolio:latest
+1) BUILD IMAGE : docker build -t portfolio:latest .
+2) RUN IMAGE: docker run -p 3000:3000 portfolio:latest
 ```
 
 ## How To Use 🔧
 
-From your command line, clone and run developerFolio:
+From your command line, clone and run portfolio:
 
 ```bash
 # Clone this repository
@@ -68,7 +68,7 @@ Generate a Github personal access token using these [Instructions](https://help.
 Note: Instead of creating a .env file, you can just run this command "cp env.example .env" inside the root directory 
 
 ```bash
-- DeveloperFolio
+- portfolio
   - node_modules
   - public
   - src
@@ -91,11 +91,11 @@ Set `showGithubProfile` to true or false to show Contact Profile using Github, d
 Note: Open Source Projects section only show pinned itens of your Github. If you are seeing [this](https://i.imgur.com/Hj6mu1K.png), please follow this
 [Instructions](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile).
 
-If the above method by any chance fails, visit the [wiki page](https://github.com/Akkiredddypasta/developerFolio/wiki/Github-Setup-For-Open-Source-Projects).
+If the above method by any chance fails, visit the [wiki page](https://github.com/Akkiredddypasta/portfolio/wiki/Github-Setup-For-Open-Source-Projects).
 
-## Change and customize every section according to your need.
+## Change and customize every section according to your need
 
-#### Personalize page content in `/src/portfolio.js` & modify it as per your need.
+### Personalize page content in `/src/portfolio.js` & modify it as per your need
 
 ```javascript
 /* Change this file to get your Personal Porfolio */
@@ -163,7 +163,7 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 This section guides you to deploy your portfolio on Github pages.
 
-- Navigate to `package.json` and enter your domain name instead of `https://developerfolio.js.org/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
+- Navigate to `package.json` and enter your domain name instead of `https://akkireddy.netlify.app/` in `homepage` variable. For example, if you want your site to be `https://<your-username>.github.io/developerFolio`, add the same to the homepage section of `package.json`.
 
 - In short you can also add `/devloperFolio` to `package.json` as both are exactly same. Upon doing so, you tell `create-react-app` to add the path assets accordingly.
 

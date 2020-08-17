@@ -4,10 +4,10 @@
 
 Just change `src/portfolio.js` to get your personal portfolio . Feel free to use it as-is or customize it as much as you want.
 
-But if you want to **contribute** and make this much better for other developer have a look at [Issues]
+But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/Akkireddy1/portfolio/tree/master/.github/ISSUE_TEMPLATE)
 
 
-If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request]
+If you created something awesome and want to contribute then feel free to open Please don't hesitate to open an [pull request](https://github.com/Akkireddy1/portfolio/tree/master/.github/PULL_REQUEST_TEMPLATE)
 
 
 ## Sections 
